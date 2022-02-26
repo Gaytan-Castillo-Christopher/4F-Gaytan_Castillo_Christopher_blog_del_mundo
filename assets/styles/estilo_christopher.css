@@ -1,0 +1,45 @@
+.fondo_negro{
+    background-color: black;
+}
+.fondo_rgb{
+    color: rgb(44, 43, 43); 
+}
+.resaltado{
+    color: yellow;
+}
+.el_costo_de_los_edificios_verdes{
+ text-align: center;
+ font-size: 3rem;   
+}
+.los_agujeros_negros{
+    text-align: center;
+    font-size: 3rem;   
+   
+}
+p{
+    color: #ffffff;
+}
+h1{
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+}
+h3{
+    color: #ffffff;
+}
+h4{
+    color: #ffffff;
+}
+footer{
+    color: #ffffff;
+}
+span{
+    color: #ffffff;
+}
+figcaption{
+    color: #ffffff;
+ 
+}
+label{
+    color: #ffffff;
