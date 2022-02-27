@@ -3,6 +3,7 @@
 }
 .fondo_rgb{
     color: rgb(44, 43, 43); 
+    padding: 1.5rem;
 }
 .resaltado{
     color: yellow;
@@ -16,6 +17,7 @@
     font-size: 3rem;   
    
 }
+
 .texto_blanco{
     color: #ffffff;
 }
@@ -44,5 +46,5 @@ figcaption{
     color: #ffffff;
  
 }
-label{
+leabel{
     color: #ffffff;
