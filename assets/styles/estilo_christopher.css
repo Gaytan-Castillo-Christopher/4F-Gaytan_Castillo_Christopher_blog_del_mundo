@@ -1,5 +1,5 @@
 .fondo_negro{
-    background-color: black;
+background-color: black;
 }
 .fondo_rgb{
     color: rgb(44, 43, 43); 
@@ -19,7 +19,7 @@
 }
 
 .texto_blanco{
-    color: #ffffff;
+   color: #ffffff;
 }
 p{
     color: #ffffff;
